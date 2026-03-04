@@ -1,6 +1,4 @@
 # CSL7110 - Min-Hashing and LSH Assignment
-
-## Author
 Asit Jain
 
 ## Files
