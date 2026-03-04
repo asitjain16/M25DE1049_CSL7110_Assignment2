@@ -51,7 +51,3 @@ python asitjain_assignment2.py
 - Thresholds 0.6 and 0.8 analyzed
 - LSH provides significant speedup
 
-## Assignment Details
-- Course: CSL7110 - Data Mining
-- Topic: Min-Hashing and Locality Sensitive Hashing
-- Deadline: 4th March 2026
