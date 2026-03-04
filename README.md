@@ -6,24 +6,7 @@ Asit Jain
 - `minhash/` - Document files (D1.txt - D4.txt)
 - `requirements.txt` - Python dependencies
 
-## Setup
 
-1. Install dependencies:
-```bash
-pip install numpy
-```
-
-2. Download MovieLens 100k dataset:
-```bash
-# Download from: http://files.grouplens.org/datasets/movielens/ml-100k.zip
-# Extract to ml-100k/ directory
-```
-
-## Run
-
-```bash
-python asitjain_assignment2.py
-```
 
 ## Results Summary
 
